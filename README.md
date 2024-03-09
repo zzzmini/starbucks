@@ -13,4 +13,4 @@ HTML/JavaScript/CSS를 활용해서 제작한 사이트입니다.
 
 ## 데모 페이지
 
-*  이곳에 넣기
+*  https://mystarbuckss.netlify.app/)https://mystarbuckss.netlify.app/
