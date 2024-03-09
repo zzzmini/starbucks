@@ -1,0 +1,15 @@
+/* height는 한없이 작아지려는 성향이 있다.
+   그런데, padding-top을 비율로 지정하면, 
+   높이는 상위컨테이너의 너비의 비율만큼 생긴다.
+   영화화면의 비율은 16:9 이는 56.25% 이다.
+*/
+
+.container{
+  width: 500px;
+  background-color: royalblue;
+}
+.container .item{
+  width: 100%;
+  height: 0;
+  padding-top: 56.25%;
+}
